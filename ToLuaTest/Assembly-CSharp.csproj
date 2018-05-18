@@ -112,6 +112,8 @@
      <Compile Include="Assets\Source\LuaConst.cs" />
      <Compile Include="Assets\TestExample\1\HelloWorld.cs" />
      <Compile Include="Assets\TestExample\2\ScriptsFromFile.cs" />
+     <Compile Include="Assets\TestExample\3\CallLuaFunction.cs" />
+     <Compile Include="Assets\TestExample\4\AccessingLuaVariables.cs" />
      <Compile Include="Assets\ToLua\BaseType\LuaInterface_EventObjectWrap.cs" />
      <Compile Include="Assets\ToLua\BaseType\LuaInterface_LuaConstructorWrap.cs" />
      <Compile Include="Assets\ToLua\BaseType\LuaInterface_LuaFieldWrap.cs" />
