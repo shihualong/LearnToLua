@@ -67,6 +67,7 @@
      <Compile Include="Assets\ToLua\Injection\Editor\ToLuaInjectionHelper.cs" />
      <Compile Include="Assets\ToLua\Injection\Editor\ToLuaText.cs" />
      <Compile Include="Assets\ToLua\Injection\Editor\ToluaInjectionBlackListPanel.cs" />
+     <Compile Include="Assets\VSCode\Plugins\Editor\VSCode.cs" />
      <None Include="Assets\link.xml" />
      <None Include="Assets\ToLua\Injection\InjectionBridgeEditorInfo.xml" />
      <None Include="Assets\ToLua\readme.txt" />
