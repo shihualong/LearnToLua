@@ -1,6 +1,5 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{3D04CE9E-2523-2B9E-9104-622740AA1DE5}") = "ToLuaTest", "Assembly-CSharp.csproj", "{B5B4A7D3-464E-7671-6F40-EEF6ACF96843}"
 EndProject
 Project("{3D04CE9E-2523-2B9E-9104-622740AA1DE5}") = "ToLuaTest", "Assembly-CSharp-Editor.csproj", "{C85D1D0F-D12B-02DE-5667-809E4B438146}"
@@ -19,9 +18,6 @@ Global
 		{C85D1D0F-D12B-02DE-5667-809E4B438146}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C85D1D0F-D12B-02DE-5667-809E4B438146}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C85D1D0F-D12B-02DE-5667-809E4B438146}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
