@@ -1,3 +1,6 @@
 ToLuaTest/Library/
 ToLuaTest/ProjectSettings/
 ToLuaTest/Temp/
+ToLuaTest/Assembly-CSharp.csproj
+ToLuaTest/Assembly-CSharp-Editor.csproj
+ToLuaTest/ToLuaTest.sln
